@@ -1,0 +1,7 @@
+Jim - Salesman
+Tom - Salesman
+Bob - Receptionst
+Sam - Developer
+Sergo - QA Engineer
+Ivan - Team Lead
+Olga - HR
